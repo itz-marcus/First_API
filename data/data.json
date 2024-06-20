@@ -1,0 +1,89 @@
+{
+    "aboutMe":"My name is Marcus Adonis and I'm am a a CarX enjoyer lol",
+    "projects":[
+        {
+            "name":"Calculator",
+            "gitHub":"https://github.com/itz-marcus/CalculatorV2",
+            "vercel":"https://calculator-v2-ten.vercel.app/",
+            "description":"I created a calculator with HTML, CSS, and JavaScript. I'm proud of how it came out visually",
+            "image":"url"
+        },
+        {
+            "name":"BMI Calculator",
+            "gitHub":"https://github.com/itz-marcus/BMI-converter",
+            "vercel":"https://bmi-converter.vercel.app/",
+            "description":"I created the BMI calculator with HTML, CSS, and JavaScript. It functions well",
+            "image":"url"
+        },
+        {
+            "name":"Area of triangle Calculator",
+            "gitHub":"https://github.com/itz-marcus/Area-of-Triangle",
+            "vercel":"https://area-of-triangle-hazel.vercel.app/",
+            "description":"I created the area of triangle calculator with HTML, CSS, and JavaScript. I like how it looks",
+            "image":"url"
+        },
+        {
+            "name":"Temperature Converter",
+            "gitHub":"https://github.com/itz-marcus/Temp-converter",
+            "vercel":"https://temp-converter-one.vercel.app/",
+            "description":"I made an temperature converter with HTML, CSS, and JavaScript. It looks nice..mericaaaaa!",
+            "image":"url"
+        },
+        {
+            "name":"Keyboard",
+            "gitHub":"https://github.com/itz-marcus/Keyboard",
+            "vercel":"https://keyboard-one-snowy.vercel.app/",
+            "description":"I made a Keyboard with HTML and CSS. I love it ",
+            "image":"url"
+        }
+        
+    ],
+    "education":[
+        {
+            "description":"Studying Web Development & UI / UX Design at Life Choices Academy",
+            "year":"2nd April - to present",
+            "placeOfInstitution":"Life Choices Academy",
+            "contact":[
+                {
+                  "name":"Matthew",
+                  "ContactDetails":"074 182 3918"  
+                }
+                
+            ]
+        },
+        {
+            "description":"Graduated high school at Cape Academy of Math’s Science and Technology.",
+            "year":"5th Jan 2017, - December 20th 2021",
+            "placeOfInstitution":"Cape Academy of M.S.T",
+            "contact":[
+                {
+                  "name":"Secretary",
+                  "ContactDetails":"021 794 5104"  
+                }
+                
+            ]
+        }
+    ],
+    "skills":["HTML","CSS","JavaScript","Vue.js","SQL"],
+    "workExp":[
+        {
+            "placeOfWork":"Parkhurst Primary School",
+            "year":"11th feb 2022, - November 15th 2023",
+            "description":"Worked as a Teacher Assistant and Administrator",
+            "contact":{
+                "name":"Ms. Fisher",
+                "cell":"021 371 8910",
+                "position":"Secretary"
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Chandre Leigh Davids",
+            "position":"colleague",
+            "message":"Marcus Adonis is an extremely talented and creative individual, his skills in front-end are definitely something any company should watch out for. In terms of front-end, he is definitely extraordinary. Truly the man of any hour of any day",
+            "image":"https://itz-marcus.github.io/Project_images/C-L.jpg"
+        }
+    ]
+
+}
