@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
-            "contactDetails":""
+            "id":"1",
+            "firstName":"Keegan",
+            "lastName":"Niekerk",
+            "gender":"Mayonnaise",
+            "profile":"MrShane06",
+            "contactDetails":"082 421 4195"
+        },
+        {
+            "id":"2",
+            "firstName":"Gwiba",
+            "lastName":"Mabandla",
+            "gender":"any all",
+            "profile":"ELL-OO-ELL",
+            "contactDetails":"072 122 8232"
+        },
+        {
+            "id":"3",
+            "firstName":"Oyintanda",
+            "lastName":"Zongwana",
+            "gender":"FE-Male-binary-air_bag,ivemadeit",
+            "profile":"Vladimir Putin uranus",
+            "contactDetails":"076 480 2680"
+        },
+        {
+            "id":"4",
+            "firstName":"Chloe",
+            "lastName":"Smith",
+            "gender":"Zebra",
+            "profile":"Big_Phat_Papa",
+            "contactDetails":"079 052 8689"
+        },
+        {
+            "id":"5",
+            "firstName":"Chloe",
+            "lastName":"Almazien",
+            "gender":"Uchiha",
+            "profile":"Smogan_69",
+            "contactDetails":"060 632 6262"
         }
     ]
 }
