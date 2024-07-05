@@ -119,13 +119,8 @@
             "position":"colleague",
             "message":"Marcus is very creative and has an eye for design. Loves to help others and works well in a team. I would recommend him for his talent and dedication to his work.",
             "image":"https://itz-marcus.github.io/Project_images/m-B.jpg"
-        },
-        {
-            "name":"Chandre Leigh Davids",
-            "position":"colleague",
-            "message":"Marcus Adonis is an extremely talented and creative individual, his skills in front-end are definitely something any company should watch out for. In terms of front-end, he is definitely extraordinary. Truly the man of any hour of any day",
-            "image":"https://itz-marcus.github.io/Project_images/C-L.jpg"
         }
+        
     ]
 
 }
