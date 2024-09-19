@@ -11,7 +11,7 @@
             "name":"Keyboard",
             "gitHub":"https://github.com/itz-marcus/Keyboard",
             "vercel":"https://keyboard-one-snowy.vercel.app/",
-            "description":"I made a Keyboard with HTML and CSS. I love it ",
+            "description":"First project ever made with HTML and CSS. ",
             "image":"https://itz-marcus.github.io/Project_images/keyboardW.png"
         },
         {
@@ -25,21 +25,21 @@
             "name":"Calculator",
             "gitHub":"https://github.com/itz-marcus/CalculatorV2",
             "vercel":"https://calculator-v2-ten.vercel.app/",
-            "description":"I created a calculator with HTML, CSS, and JavaScript. I'm proud of how it came out visually",
+            "description":"A calculator made with HTML, CSS, and JavaScript. I'm proud of it visually & functionally",
             "image":"https://itz-marcus.github.io/Project_images/Calc.png"
         },
         {
-            "name":"BMI Calculator",
-            "gitHub":"https://github.com/itz-marcus/BMI-converter",
-            "vercel":"https://bmi-converter.vercel.app/",
-            "description":"I created the BMI calculator with HTML, CSS, and JavaScript. It functions well",
-            "image":"https://itz-marcus.github.io/Project_images/BMI.png"
+            "name":"Old Portfolio",
+            "gitHub":"https://github.com/itz-marcus/Vue-porfolio-prj",
+            "vercel":"https://vue-porfolio-prj.vercel.app/",
+            "description":"My old Portfolio made with Vue.js. It functions well and one of my favorites to make",
+            "image":"https://itz-marcus.github.io/Hosted-Images-/Portfolio.png"
         },
         {
             "name":"Temperature Converter",
             "gitHub":"https://github.com/itz-marcus/Temp-converter",
             "vercel":"https://temp-converter-one.vercel.app/",
-            "description":"I made an temperature converter with HTML, CSS, and JavaScript. It looks nice..mericaaaaa!",
+            "description":"I made an temperature converter with HTML, CSS, and JavaScript.",
             "image":"https://itz-marcus.github.io/Project_images/T-conv.png"
             
         }
