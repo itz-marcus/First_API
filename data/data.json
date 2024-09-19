@@ -25,14 +25,14 @@
             "name":"Calculator",
             "gitHub":"https://github.com/itz-marcus/CalculatorV2",
             "vercel":"https://calculator-v2-ten.vercel.app/",
-            "description":"A calculator made with HTML, CSS, and JavaScript. I'm proud of it visually & functionally",
+            "description":"A calculator made with HTML, CSS, and JavaScript. I'm proud of this one",
             "image":"https://itz-marcus.github.io/Project_images/Calc.png"
         },
         {
             "name":"Old Portfolio",
             "gitHub":"https://github.com/itz-marcus/Vue-porfolio-prj",
             "vercel":"https://vue-porfolio-prj.vercel.app/",
-            "description":"My old Portfolio made with Vue.js. It functions well and one of my favorites to make",
+            "description":"My old Portfolio made with Vue.js. It functions well and one of my favorites",
             "image":"https://itz-marcus.github.io/Hosted-Images-/Portfolio.png"
         },
         {
